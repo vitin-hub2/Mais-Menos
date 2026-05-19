@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mais-menos.vercel.app/sitemap.xml
